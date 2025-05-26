@@ -1,0 +1,14 @@
+[
+  {
+    "origin": ["http://localhost:3000"],
+    "method": ["PUT", "POST", "GET"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  },
+    {
+    "origin": ["https://pdac-segmentation-app.fly.dev/"],
+    "method": ["PUT", "POST", "GET"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]

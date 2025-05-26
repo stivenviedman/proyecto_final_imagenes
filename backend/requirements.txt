@@ -1,0 +1,12 @@
+blinker
+monai[all]
+nibabel
+nilearn
+torchinfo
+gdown
+matplotlib
+fastapi
+uvicorn
+pydantic
+google-cloud-storage
+requests
